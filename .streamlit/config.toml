@@ -1,0 +1,5 @@
+[server]
+headless = true
+port = 8501
+# Note: Streamlit now enables XSRF protection by default.
+# Remove enableCORS to avoid the compatibility warning.

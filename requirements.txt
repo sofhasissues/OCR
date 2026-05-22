@@ -1,0 +1,12 @@
+pytesseract
+opencv-python
+Pillow
+transformers
+torch
+torchvision
+sentencepiece
+pdf2image
+pymupdf
+pyttsx3
+streamlit
+pymongo
